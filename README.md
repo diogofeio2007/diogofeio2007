@@ -16,12 +16,20 @@
 
 ###
 
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" height="45" alt="java logo"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" height="40" alt="postgreSQL logo"  />
+  <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" height="40" alt="springboot logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000" height="40" alt="postgreSQL logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=owWiEaAJmGKK&format=png&color=000000" height="40" alt="HTML5 logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000" height="45" alt="Bootstrap logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=6Qr2kBSBemvq&format=png&color=000000" height="45" alt="git logo"  />
+  <img width="12" />
 </div>
 
 ###
